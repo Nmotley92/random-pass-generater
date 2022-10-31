@@ -45,6 +45,7 @@ Users can have a randomly generated password with just a few clicks.
 ```
 ## Visuals
 
+[Video demonstration.webm](https://user-images.githubusercontent.com/114119193/199109267-119f5b35-3178-4f62-a7f5-ed5335ab3f55.webm)
 
 ## Contact
 <img align="left" src="https://avatars.githubusercontent.com/Nmotley92?size=100">
